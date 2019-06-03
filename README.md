@@ -1,5 +1,4 @@
 # Custom Nation Pack EU4
-
 A bundle of Custom Nations mods for convenience
 
 Includes:
