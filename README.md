@@ -1,7 +1,7 @@
-# Custom Nation Pack EU4
-A bundle of Custom Nations mods for convenience
+# Custom Nations Pack EU4
+[h1]A bundle of Custom Nations mods for convenience[/h1]
 
 Includes:
--Client States on Start
+[b]-Client States on Start
 -Custom Flag Symbols
--Custom Country Colors
+-Custom Country Colours[/b]
